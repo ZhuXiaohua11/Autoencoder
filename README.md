@@ -25,8 +25,4 @@ The goal is to learn a compact representation of 28×28 grayscale digits (0–9)
 - **Loss**: Binary Cross-Entropy (BCE)  
 - **Optimizer**: Adam  
 
----
 
-```bash
-git clone https://github.com/your-username/mnist-autoencoder.git
-cd mnist-autoencoder
